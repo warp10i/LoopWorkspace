@@ -256,7 +256,6 @@ jobs:
           future_carbs_4h \
           now_line \
           lnl_icon \
-          customtypeone_looppatches \
           2002
 
           # the final customization listed above CANNOT have a continuation character "\"
